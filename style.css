@@ -1,0 +1,71 @@
+/* Early life page*/
+.main-div {
+    width:1024px ;
+}
+
+.first-div {
+    width: 110px;
+    border: 1px solid black;
+   float: left;
+    
+}
+.seccond-div {
+    border: 1px solid black;
+    padding: 25px;
+    margin-left: 120px;
+    
+    
+}
+.table{
+    font-family: 'Courier New', Courier, monospace;
+    
+        
+}
+th{
+    background-color: brown;
+}
+.colored-row{
+    background-color: rgb(235, 194, 133)
+}
+/* Main Page */
+.mp-div{
+    width: 1024px;
+}
+.nav-div-mp{
+    width: 110px;
+    border: 1px solid black;
+    float: left;
+} 
+.content-div-mp{
+    border: 1px solid black;
+    padding: 25px;
+    margin-left: 120px;
+}  
+/* Literary Work Page */  
+.main-div.lw{
+    width: 1024px;
+} 
+.nav-div-lw{
+    width: 110px;
+    border: 1px solid black;
+    float: left;
+}
+.content-div-lw{
+    border: 1px solid black;
+    padding: 25px;
+    margin-left: 120px;
+}
+/*Pupin Coils Page*/
+.main-div-pc{
+    width: 1024px;
+}
+.nav-div-pc{
+    width: 110px;
+    border: 1px solid black;
+    float: left;
+}
+.content-div-pc{
+    border: 1px solid black;
+    padding: 25px;
+    margin-left: 120px;
+}
